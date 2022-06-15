@@ -12,8 +12,8 @@ int main() {
                 printf("Calificación reprobada\n");
                 }
             suma=suma+n;
-            promedio=suma/5;
     }
+    promedio=suma/5;
      if (promedio>=7){
                 printf("Aprobado, ");
                 } else {
